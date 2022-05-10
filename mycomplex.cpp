@@ -2,6 +2,7 @@
     @file
     @brief Файл с описанием методов класса Complex
 */
+
 #include<iostream>
 #include   <cmath>
 #include "mycomplex.h"
